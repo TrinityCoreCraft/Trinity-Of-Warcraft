@@ -13,6 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="data">
+      <UniqueIdentifier>{d58deb4c-762e-4dd3-adad-0308b43ee46a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="data\images">
+      <UniqueIdentifier>{322882df-5d4b-44e9-8328-d620ba57126d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
@@ -52,7 +58,7 @@
       <Filter>Resource Files</Filter>
     </Image>
     <Image Include="..\..\..\..\..\..\..\bg.bmp">
-      <Filter>Resource Files</Filter>
+      <Filter>data\images</Filter>
     </Image>
   </ItemGroup>
 </Project>
